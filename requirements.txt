@@ -1,0 +1,37 @@
+# Core ML / Deep Learning
+torch>=2.0
+transformers>=4.40
+accelerate>=0.28
+peft>=0.10
+safetensors
+
+# Data
+pandas>=1.5
+numpy
+openpyxl
+
+# ML Baselines
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Survival Analysis
+lifelines
+
+# Interpretability
+shap
+
+# Visualization
+matplotlib
+wordcloud
+
+# LLM Inference
+vllm
+openai>=1.0
+
+# Utilities
+tqdm
+requests
+tensorboard
+gseapy

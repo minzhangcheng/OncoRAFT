@@ -1,0 +1,10 @@
+torch>=2.0
+transformers>=4.40
+accelerate>=0.28
+peft>=0.10
+safetensors
+pandas>=1.5
+numpy
+scikit-learn
+tqdm
+tensorboard

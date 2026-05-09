@@ -1,0 +1,5 @@
+pandas>=1.5
+tqdm
+openai>=1.0
+transformers
+vllm
